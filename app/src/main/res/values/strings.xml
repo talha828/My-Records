@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_add_record">Record</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_record_details">Record Details</string>
+    <string name="hint_image">Image Url</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_description">Description</string>
+</resources>
